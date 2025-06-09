@@ -22,10 +22,10 @@
     "video": null,
     "secenekler": {
       "tip": 2,
-      "A": "a2.jpg",
-      "B": "b2.jpg",
-      "C": "c2.jpg",
-      "D": "d2.jpg"
+      "A": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/a2.jpg?raw=true",
+      "B": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/b2.jpg?raw=true",
+      "C": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/c2.jpg?raw=true",
+      "D": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/d2.jpg?raw=true"
     },
     "dogruCevap": "C"
   },
@@ -33,7 +33,7 @@
     "id": 3,
     "soruMetni": "Buna göre ilk yardımcı, numaralanmış kazazedelerden hangilerine “ağızdan buruna” suni solunum yapmalıdır?",
     "soruAciklamaMetni": "Olay yerindeki ilk yardımcının, bilinçleri kapalı ve solunumu olmayan dört farklı kazazedeye ilişkin tespitleri tabloda verilmiştir.",
-    "resim": "s3.png",
+    "resim": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/s3.png?raw=true",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -48,7 +48,7 @@
     "id": 4,
     "soruMetni": "Buna göre, sıralamanın doğru olması için numaralanmış aşamalardan hangileri yer değiştirmelidir?",
     "soruAciklamaMetni": "Görselde bebeklerde ilk yardım olarak uygulanan Heimlich manevrasının uygulama aşamaları karışık olarak verilmiştir.",
-    "resim": "s4.png",
+    "resim": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/s4.png?raw=true",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -78,7 +78,7 @@
     "id": 6,
     "soruMetni": "Görseldeki yaralıya ilk yardımcının, hangi uygulamayı yapması uygun değildir?",
     "soruAciklamaMetni": null,
-    "resim": "s6.png",
+    "resim": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/s6.png?raw=true",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -93,7 +93,7 @@
     "id": 7,
     "soruMetni": "Tabloya göre ilk yardımcının, numaralanmış kazazedelerin kırık durumlarına göre uyguladığı tespit işlemleri doğru (D), yanlış (Y) olarak değerlendirildiğinde sıralama hangisi olur?",
     "soruAciklamaMetni": null,
-    "resim": "s7.png",
+    "resim": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/s7.png?raw=true",
     "video": null,
     "secenekler": {
       "tip": 1,
