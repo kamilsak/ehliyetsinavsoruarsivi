@@ -12,7 +12,7 @@
       "C": "Omurilik",
       "D": "Omurilik soğanı"
     },
-    "dogruCevap": "D"
+    "dogruCevap": "C"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
       "C": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/c2.jpg?raw=true",
       "D": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/d2.jpg?raw=true"
     },
-    "dogruCevap": "C"
+    "dogruCevap": "B"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
       "C": "II ve III",
       "D": "III ve IV"
     },
-    "dogruCevap": "C"
+    "dogruCevap": "A"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
       "C": "II ve III",
       "D": "III ve IV"
     },
-    "dogruCevap": "C"
+    "dogruCevap": "B"
   },
   {
     "id": 5,
@@ -87,7 +87,7 @@
       "C": "Bilinç durumunu kontrol etmesi",
       "D": "Yaşam bulgularını (ABC) değerlendirmesi"
     },
-    "dogruCevap": "D"
+    "dogruCevap": "B"
   },
   {
     "id": 7,
@@ -102,7 +102,7 @@
       "C": " I    II   III\nD - D - Y",
       "D": " I    II   III\nD - Y - Y"
     },
-    "dogruCevap": "B"
+    "dogruCevap": "C"
   },
   {
     "id": 8,
@@ -117,7 +117,7 @@
       "C": "Şerit sargıların kırık bölgenin üzerine gelecek şekilde bağlanmasına",
       "D": "Yaralının oturur pozisyonda olmasına"
     },
-    "dogruCevap": "A"
+    "dogruCevap": "B"
   },
   {
     "id": 9,
@@ -132,7 +132,7 @@
       "C": "Sara krizi",
       "D": "Havale"
     },
-    "dogruCevap": "A"
+    "dogruCevap": "B"
   },
   {
     "id": 10,
@@ -147,6 +147,6 @@
       "C": "Koma",
       "D": "Şok"
     },
-    "dogruCevap": "B"
+    "dogruCevap": "A"
   }
 ]
