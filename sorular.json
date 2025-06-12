@@ -2,7 +2,7 @@
   {
     "id": 11,
     "soruMetni": "",
-    "soruAciklamaMetni": "<div class="soruTablo">
+    "soruAciklamaMetni": "
     İlk yardımcı, baş bölgesinden şiddetli darbe alan kazazedenin:<br><br>
     <ul>
         <li>sesli ve ağrılı uyarılara yanıt vermediğini,</li>
@@ -10,7 +10,7 @@
         <li>ışığa karşı tepkisiz olduğunu ve idrar kaçırdığını tespit etmiştir.</li>
     </ul>
     <b>Bu belirtilere göre, ilk yardımcının kazazedeye hangi pozisyonu vermesi doğrudur?</b>
-</div>
+
 ",
     "resim": null,
     "video": null,
