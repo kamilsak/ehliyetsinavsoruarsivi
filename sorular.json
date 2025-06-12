@@ -17,7 +17,7 @@
   {
     "id": 1,
     "soruMetni": "Bu bilgi, hangi organa aittir?",
-    "soruAciklamaMetni": "Sinir sistemine aittir ve omurga kanalı içinde, boyundan başlayıp kuyruk sokumuna kadar uzanır. Bu organ beyin ve vücut arasında bağlantıyı sağlar ve reflekslerin merkezidir.",
+    "soruAciklamaMetni": "Sinir sistemine aittir ve omurga kanalı içinde, boyundan başlayıp kuyruk sokumuna kadar uzanır. Bu organ beyin ve vücut arasında bağlantıyı sağlar ve reflekslerin merkezidir.\n\n",
     "resim": null,
     "video": null,
     "secenekler": {
@@ -112,10 +112,10 @@
     "video": null,
     "secenekler": {
       "tip": 1,
-      "A": " I    II   III\nY - D - Y",
-      "B": " I    II   III\nY - D - D",
-      "C": " I    II   III\nD - D - Y",
-      "D": " I    II   III\nD - Y - Y"
+      "A": " <u>I    II   III</u>\nY - D - Y",
+      "B": " <u>I    II   III</u>\nY - D - D",
+      "C": " <u>I    II   III</u>\nD - D - Y",
+      "D": " <u>I    II   III</u>\nD - Y - Y"
     },
     "dogruCevap": "C"
   },
@@ -137,9 +137,9 @@
   {
     "id": 9,
     "soruMetni": "Bu belirtiler, acil bakım gerektiren hastalıklardan hangisiyle ilgilidir?",
-    "soruAciklamaMetni": "Ölüm korkusu ve yoğun sıkıntı hissedilir.\nAğrı şiddetli ve uzun sürelidir, dinlenmekle geçmez.\nAğrı hissi; sıklıkla kravat bölgesinde görülür, omuzlara, boyuna, çeneye ve sol kola doğru yayılır.",
+    "soruAciklamaMetni": "  • Ölüm korkusu ve yoğun sıkıntı hissedilir.\n   • Ağrı şiddetli ve uzun sürelidir, dinlenmekle geçmez.\n   • Ağrı hissi; sıklıkla kravat bölgesinde görülür, omuzlara, boyuna, çeneye ve sol kola doğru yayılır.\n",
     "resim": null,
-    "video": null,
+    "video": null, 
     "secenekler": {
       "tip": 1,
       "A": "Bayılma",
@@ -152,7 +152,7 @@
   {
     "id": 10,
     "soruMetni": "Bu belirtilere göre, ilk yardımcının kazazedeye hangi pozisyonu vermesi doğrudur?",
-    "soruAciklamaMetni": "İlk yardımcı, baş bölgesinden şiddetli darbe alan kazazedenin;\n\nsesli ve ağrılı uyarılara yanıt vermediğini,\nyutkunma ve öksürük gibi tepkilerinin olmadığını,\nışığa karşı tepkisiz olduğunu ve idrar kaçırdığını tespit etmiştir.",
+    "soruAciklamaMetni": "İlk yardımcı, baş bölgesinden şiddetli darbe alan kazazedenin;\n\n   • sesli ve ağrılı uyarılara yanıt vermediğini,\n   • yutkunma ve öksürük gibi tepkilerinin olmadığını,\n   • ışığa karşı tepkisiz olduğunu ve idrar kaçırdığını tespit etmiştir.\n",
     "resim": null,
     "video": null,
     "secenekler": {
@@ -166,8 +166,8 @@
   },
   {
     "id": 11,
-    "soruMetni": "",
-    "soruAciklamaMetni": "İlk yardımcı, baş bölgesinden şiddetli darbe alan kazazedenin;<ul><li>sesli ve ağrılı uyarılara yanıt vermediğini,</li><li>yutkunma ve öksürük gibi tepkilerinin olmadığını,</li><li>ışığa karşı tepkisiz olduğunu ve idrar kaçırdığını tespit etmiştir.</li></ul><b>Bu belirtilere göre, ilk yardımcının kazazedeye hangi pozisyonu vermesi doğrudur?",
+    "soruMetni": "Yaralı taşımada kullanılan "teskereci yöntemi"nin uygulanış biçimi hangisinde gösterilmiştir?",
+    "soruAciklamaMetni": "",
     "resim": null,
     "video": null,
     "secenekler": {
