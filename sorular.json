@@ -192,52 +192,52 @@
     "alan": "ILKYARDIM"
   },
   {
-    "id": 11,
-    "soruMetni": "",
+    "id": 13,
+    "soruMetni": "Şehir içinde, yol yapısı veya işaretleme yetersizliği yüzünden trafik kazalarının vuku bulduğu yerlerde, yetkililerce teklif edilen tedbirleri almak hangi kurumun görevidir?",
     "soruAciklamaMetni": "",
     "resim": null,
     "video": null,
     "secenekler": {
       "tip": 1,
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "Şok"
+      "A": "Belediyenin",
+      "B": "İçişleri Bakanlığının",
+      "C": "Jandarma Teşkilatının",
+      "D": "Karayolları Genel Müdürlüğünün"
     },
     "dogruCevap": "A",
-    "alan": "ILKYARDIM"
+    "alan": "TRAFIK"
   },
   {
-    "id": 11,
-    "soruMetni": "",
+    "id": 14,
+    "soruMetni": "Videoya göre hangisinin yapılması doğru olur?",
     "soruAciklamaMetni": "",
     "resim": null,
-    "video": null,
+    "video": "https://esinavdeneme.meb.gov.tr/video/124454.mp4",
     "secenekler": {
       "tip": 1,
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "Şok"
+      "A": "Beyaz otomobil sürücüsünün beklemesi",
+      "B": "Sarı otomobil sürücüsünün hızlanması",
+      "C": "Siyah otomobil sürücüsünün sol şeride geçmesi",
+      "D": "Siyah otomobil sürücüsünün beyaz otomobil sürücüsüne ilk geçiş hakkını vermesi"
     },
     "dogruCevap": "A",
-    "alan": "ILKYARDIM"
+    "alan": "TRAFIK"
   },
   {
-    "id": 11,
-    "soruMetni": "",
-    "soruAciklamaMetni": "",
+    "id": 15,
+    "soruMetni": "Videoya göre, kırmızı otomobil sürücüsü numaralanmış hatalardan hangilerini yapmaktadır?",
+    "soruAciklamaMetni": "  I. Kırmızı ışıkta geçmektedir.\n II. Sağdan gelen yeşil araca ilk geçiş hakkını vermemektedir.\nIII. Girişi olmayan yol bölümüne girmektedir.",
     "resim": null,
-    "video": null,
+    "video": "https://esinavdeneme.meb.gov.tr/video/123962.mp4",
     "secenekler": {
       "tip": 1,
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "Şok"
+      "A": "I ve II",
+      "B": "I ve III",
+      "C": "II ve III",
+      "D": "I, II ve III"
     },
-    "dogruCevap": "A",
-    "alan": "ILKYARDIM"
+    "dogruCevap": "B",
+    "alan": "TRAFIK"
   },
   {
     "id": 11,
