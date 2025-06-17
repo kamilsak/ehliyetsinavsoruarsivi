@@ -183,10 +183,10 @@
     "video": null,
     "secenekler": {
       "tip": 2,
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "Şok"
+      "A": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/11a.png?raw=true",
+      "B": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/11b.png?raw=true",
+      "C": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/11c.png?raw=true",
+      "D": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/11d.png?raw=true"
     },
     "dogruCevap": "A",
     "alan": "ILKYARDIM"
@@ -199,10 +199,10 @@
     "video": null,
     "secenekler": {
       "tip": 2,
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "Şok"
+      "A": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/12a.png?raw=true",
+      "B": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/12b.png?raw=true",
+      "C": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/12c.png?raw=true",
+      "D": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/12d.png?raw=true"
     },
     "dogruCevap": "D",
     "alan": "ILKYARDIM"
