@@ -182,7 +182,7 @@
     "resim": null,
     "video": null,
     "secenekler": {
-      "tip": 1,
+      "tip": 2,
       "A": "",
       "B": "",
       "C": "",
@@ -192,19 +192,19 @@
     "alan": "ILKYARDIM"
   },
   {
-    "id": 11,
-    "soruMetni": "",
+    "id": 12,
+    "soruMetni": "Hangisi yaralıyı sedye üzerine yerleştirme yöntemlerinden biri <u>değildir</u>?",
     "soruAciklamaMetni": "",
     "resim": null,
     "video": null,
     "secenekler": {
-      "tip": 1,
+      "tip": 2,
       "A": "",
       "B": "",
       "C": "",
       "D": "Şok"
     },
-    "dogruCevap": "A",
+    "dogruCevap": "D",
     "alan": "ILKYARDIM"
   },
   {
