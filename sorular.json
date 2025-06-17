@@ -1,21 +1,5 @@
 [
   {
-    "id": 11,
-    "soruMetni": "",
-    "soruAciklamaMetni": "İlk yardımcı, baş bölgesinden şiddetli darbe alan kazazedenin:\n   •  sesli ve ağrılı uyarılara yanıt vermediğini,\n   •  yutkunma ve öksürük gibi tepkilerinin olmadığını,\n   •  ışığa karşı tepkisiz olduğunu ve idrar kaçırdığını tespit etmiştir.\n Bu belirtilere göre, ilk yardımcının kazazedeye hangi pozisyonu vermesi doğrudur?",
-    "resim": null,
-    "video": null,
-    "secenekler": {
-      "tip": 1,
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "Şok"
-    },
-    "dogruCevap": "A",
-    "alan": "ILKYARDIM"
-  },
-  {
     "id": 1,
     "soruMetni": "Bu bilgi, hangi organa aittir?",
     "soruAciklamaMetni": "Sinir sistemine aittir ve omurga kanalı içinde, boyundan başlayıp kuyruk sokumuna kadar uzanır. Bu organ beyin ve vücut arasında bağlantıyı sağlar ve reflekslerin merkezidir.\n\n",
