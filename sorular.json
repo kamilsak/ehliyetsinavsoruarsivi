@@ -243,7 +243,7 @@
     "id": 16,
     "soruMetni": "Görseldeki yol çizgileri ve yer işaretlemeleri, numaralanmış ifadelerden hangilerini belirtir?",
     "soruAciklamaMetni": " I.	Yolun, iki şeritli ve iki yönlü olduğunu\n II. 1 numaralı aracın gerektiğinde geçme yapabileceğini\n III.	2 numaralı arcın gerektiğinde geçme yapabileceğini",
-    "resim": null,
+    "resim": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/16img.png?raw=true",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -263,10 +263,10 @@
     "video": null,
     "secenekler": {
       "tip": 2,
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "Şok"
+      "A": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/17a.png?raw=true",
+      "B": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/17b.png?raw=true",
+      "C": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/17c.png?raw=true",
+      "D": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/17d.png?raw=true"
     },
     "dogruCevap": "C",
     "alan": "ILKYARDIM"
@@ -275,7 +275,7 @@
     "id": 18,
     "soruMetni": "Videoya göre, kırmızı otomobil sürücüsü nasıl davranmalıdır?",
     "soruAciklamaMetni": "",
-    "resim": null,
+    "resim": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/18img.png?raw=true",
     "video": "https://esinavdeneme.meb.gov.tr/video/123967.mp4",
     "secenekler": {
       "tip": 1,
@@ -291,7 +291,7 @@
     "id": 19,
     "soruMetni": "Görsele göre, hangisinin yapılması doğru olur?",
     "soruAciklamaMetni": "",
-    "resim": null,
+    "resim": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/19img.png?raw=true",
     "video": null,
     "secenekler": {
       "tip": 1,
