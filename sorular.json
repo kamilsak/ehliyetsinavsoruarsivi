@@ -212,7 +212,7 @@
     "soruMetni": "Videoya göre hangisinin yapılması doğru olur?",
     "soruAciklamaMetni": "",
     "resim": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/14s.png?raw=true",
-    "video": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/14video.mp4",
+    "video": "https://esinavdeneme.meb.gov.tr/video/124454.mp4",
     "secenekler": {
       "tip": 1,
       "A": "Beyaz otomobil sürücüsünün beklemesi",
@@ -241,67 +241,67 @@
   },
   {
     "id": 16,
-    "soruMetni": "",
-    "soruAciklamaMetni": "",
+    "soruMetni": "Görseldeki yol çizgileri ve yer işaretlemeleri, numaralanmış ifadelerden hangilerini belirtir?",
+    "soruAciklamaMetni": " I.	Yolun, iki şeritli ve iki yönlü olduğunu\n II. 1 numaralı aracın gerektiğinde geçme yapabileceğini\n III.	2 numaralı arcın gerektiğinde geçme yapabileceğini",
     "resim": null,
     "video": null,
     "secenekler": {
       "tip": 1,
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "Şok"
+      "A": "I ve II",
+      "B": "I ve III",
+      "C": "II ve III",
+      "D": "I, II ve III"
     },
-    "dogruCevap": "A",
-    "alan": "ILKYARDIM"
+    "dogruCevap": "B",
+    "alan": "TRAFIK"
   },
   {
     "id": 17,
-    "soruMetni": "",
+    "soruMetni": "Trafik işaretlerinden hangisi, aracın yük taşıma kapasitesine sınırlama getirir?",
     "soruAciklamaMetni": "",
     "resim": null,
     "video": null,
     "secenekler": {
-      "tip": 1,
+      "tip": 2,
       "A": "",
       "B": "",
       "C": "",
       "D": "Şok"
     },
-    "dogruCevap": "A",
+    "dogruCevap": "C",
     "alan": "ILKYARDIM"
   },
   {
     "id": 18,
-    "soruMetni": "",
+    "soruMetni": "Videoya göre, kırmızı otomobil sürücüsü nasıl davranmalıdır?",
     "soruAciklamaMetni": "",
     "resim": null,
-    "video": null,
+    "video": "https://esinavdeneme.meb.gov.tr/video/123967.mp4",
     "secenekler": {
       "tip": 1,
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "Şok"
+      "A": "Önündeki aracın sağından yoluna devam etmeli",
+      "B": "Solundaki şeride geçmeli",
+      "C": "Yavaşlamalı ve önündeki aracın arkasından yoluna devam etmeli",
+      "D": "Korna çalarak önündeki aracın hızlanmasını istemeli"
     },
-    "dogruCevap": "A",
-    "alan": "ILKYARDIM"
+    "dogruCevap": "C",
+    "alan": "TRAFIK"
   },
   {
     "id": 19,
-    "soruMetni": "",
+    "soruMetni": "Görsele göre, hangisinin yapılması doğru olur?",
     "soruAciklamaMetni": "",
     "resim": null,
     "video": null,
     "secenekler": {
       "tip": 1,
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "Şok"
+      "A": "1 numaralı aracın 2 numaralı araca geçme önceliği vermesi",
+      "B": "1 numaralı aracın, 2 numaralı araca geçiş kolaylığı sağlamak için, solundaki şeride geçmesi",
+      "C": "2 numaralı aracın, 1 numaralı araç geçtikten sonra sol şeride geçmesi",
+      "D": "2 numaralı aracın, 1 numaralı aracı uyararak yavaşlatması"
     },
-    "dogruCevap": "A",
-    "alan": "ILKYARDIM"
+    "dogruCevap": "C",
+    "alan": "TRAFIK"
   },
   {
     "id": 20,
