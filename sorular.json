@@ -384,20 +384,20 @@
     "alan": "TRAFIK"
   },
   {
-    "id": 21,
-    "soruMetni": "",
+    "id": 25,
+    "soruMetni": "Görseldeki gibi bir karşılaşmada, 2 numaralı araç sürücüsü ne yapmalıdır?",
     "soruAciklamaMetni": "",
-    "resim": null,
+    "resim": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/25img.png?raw=true",
     "video": null,
     "secenekler": {
       "tip": 1,
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "Şok"
+      "A": "Geçiş önceliğini kendisi kullanmalı",
+      "B": "Hızlanıp köprüye 1 numaralı araçtan önce girmeli",
+      "C": "Geçiş önceliğini 1 numaralı araca vermeli ",
+      "D": "1 numaralı aracın daralan yol bölümüne girmemesi için selektör yaparak uyarmalı"
     },
-    "dogruCevap": "A",
-    "alan": "ILKYARDIM"
+    "dogruCevap": "C",
+    "alan": "TRAFIK"
   },
   {
     "id": 21,
