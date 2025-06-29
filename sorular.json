@@ -242,7 +242,7 @@
   {
     "id": 16,
     "soruMetni": "Görseldeki yol çizgileri ve yer işaretlemeleri, numaralanmış ifadelerden hangilerini belirtir?",
-    "soruAciklamaMetni": " I.	Yolun, iki şeritli ve iki yönlü olduğunu\n II. 1 numaralı aracın gerektiğinde geçme yapabileceğini\n III.	2 numaralı arcın gerektiğinde geçme yapabileceğini",
+    "soruAciklamaMetni": "   I.	Yolun, iki şeritli ve iki yönlü olduğunu\n  II. 1 numaralı aracın gerektiğinde geçme yapabileceğini\n III.	2 numaralı arcın gerektiğinde geçme yapabileceğini",
     "resim": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/16img.png?raw=true",
     "video": null,
     "secenekler": {
@@ -306,7 +306,7 @@
   {
     "id": 20,
     "soruMetni": "Görsele göre, 1 numaralı araç sürücüsünün numaralanmış davranışlardan hangilerini yapması trafik kazası riskini azaltır?",
-    "soruAciklamaMetni": "I.	 Takip mesafesini artırması\nII.	 Hızını azaltması\nIII.	 Bulunduğu şeridin soluna yanaşması",
+    "soruAciklamaMetni": "  I.	 Takip mesafesini artırması\n II.	 Hızını azaltması\nIII.	 Bulunduğu şeridin soluna yanaşması",
     "resim": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/20img.png?raw=true",
     "video": null,
     "secenekler": {
@@ -400,99 +400,411 @@
     "alan": "TRAFIK"
   },
   {
-    "id": 21,
-    "soruMetni": "",
+    "id": 26,
+    "soruMetni": "Geçiş üstünlüğüne sahip araçların, duyulan uyarı işaretini aldığımızda, <u>ilk önce</u> yapmamız gereken hangisidir?",
     "soruAciklamaMetni": "",
     "resim": null,
     "video": null,
     "secenekler": {
       "tip": 1,
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "Şok"
+      "A": "Derhal sağ şeride yanaşmak",
+      "B": "Empati kurabilen biri olduğu",
+      "C": "Trafikte saygı kavramına önem verdiği",
+      "D": "Sorumluluk bilincinin zayıf olduğu"
     },
-    "dogruCevap": "A",
-    "alan": "ILKYARDIM"
+    "dogruCevap": "B",
+    "alan": "TRAFIK"
   },
   {
-    "id": 21,
-    "soruMetni": "",
-    "soruAciklamaMetni": "",
-    "resim": null,
+    "id": 27,
+    "soruMetni": "Görseldeki gibi bir karayolu bölümünde seyreden sürücülerin, numaralanmış davranışlardan hangilerini yapmaları tehlikeli durumların oluşmasına neden olur?",
+    "soruAciklamaMetni": "   I.	 Hızlarını artırmaları\n  II.	 Virajı dar bir kavisle almaları\n III.	 Öndeki aracı geçmeleri",
+    "resim": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/27img.png?raw=true",
     "video": null,
     "secenekler": {
       "tip": 1,
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "Şok"
+      "A": "I ve II",
+      "B": "I ve III",
+      "C": "II ve III",
+      "D": "I, II ve III"
     },
-    "dogruCevap": "A",
-    "alan": "ILKYARDIM"
+    "dogruCevap": "D",
+    "alan": "TRAFIK"
   },
   {
-    "id": 21,
-    "soruMetni": "",
-    "soruAciklamaMetni": "",
+    "id": 28,
+    "soruMetni": "Bu cümlede boş bırakılan yerlere hangileri getirilmelidir?",
+    "soruAciklamaMetni": "'İşaret levhalarına yaklaşım yönünde ve park izni verilen yerler dışında; yerleşim birimleri içinde - - - - metre ve yerleşim birimleri dışında - - - - metre mesafede duraklamak yasaktır.'",
     "resim": null,
     "video": null,
     "secenekler": {
       "tip": 1,
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "Şok"
+      "A": "15 - 100",
+      "B": "20 - 150",
+      "C": "30 - 200",
+      "D": "40 - 250"
     },
     "dogruCevap": "A",
-    "alan": "ILKYARDIM"
+    "alan": "TRAFIK"
   },
   {
-    "id": 21,
-    "soruMetni": "",
-    "soruAciklamaMetni": "",
+    "id": 29,
+    "soruMetni": "Uzun hüzmeli far açıkken, numaralanmış durumlardan hangileri olursa kısa hüzmeli farı kullanmalıyız?",
+    "soruAciklamaMetni": "   I.	 Yeteri kadar aydınlatılmış yollara girdiğimizde\n  II.	 Yayalarla aynı yönde ilerliyorsak\n III.	 Demiryolu geçidine geldiğimizde\nIV.	 Geceleyin önümüzdeki aracı geçeceğimiz zaman",
     "resim": null,
     "video": null,
     "secenekler": {
       "tip": 1,
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "Şok"
+      "A": "I ve II",
+      "B": "I ve IV",
+      "C": "II ve III",
+      "D": "I, III ve IV"
     },
-    "dogruCevap": "A",
-    "alan": "ILKYARDIM"
+    "dogruCevap": "B",
+    "alan": "TRAFIK"
   },
   {
-    "id": 21,
-    "soruMetni": "",
+    "id": 30,
+    "soruMetni": "Görseldeki otoyol bilgi levhası hangisini bildirir?",
     "soruAciklamaMetni": "",
-    "resim": null,
+    "resim": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/30img.png?raw=true",
     "video": null,
     "secenekler": {
       "tip": 1,
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "Şok"
+      "A": "Cep telefonu sinyalinin güçlü olduğunu",
+      "B": "Radyo yayınlarının yol boyunca dinlenebileceğini",
+      "C": "Ücretli otoyola girileceğini",
+      "D": "Yol boyunca elektronik denetleme sisteminin olduğunu"
     },
-    "dogruCevap": "A",
-    "alan": "ILKYARDIM"
+    "dogruCevap": "C",
+    "alan": "TRAFIK"
   },
   {
-    "id": 21,
-    "soruMetni": "",
+    "id": 31,
+    "soruMetni": "Videodaki tehlikeli durum, sürücülerin hangi kuralı ihlal etmeleri sonucunda oluşmuştur?",
+    "soruAciklamaMetni": "",
+    "resim": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/31img.png?raw=true",
+    "video": "https://esinavdeneme.meb.gov.tr/video/123256.mp4",
+    "secenekler": {
+      "tip": 1,
+      "A": "Takip mesafesi kuralını",
+      "B": "Geçme kuralını",
+      "C": "Kavşaklarda ilk geçiş hakkı kuralını",
+      "D": "Şerit takip kuralını"
+    },
+    "dogruCevap": "D",
+    "alan": "TRAFIK"
+  },
+  {
+    "id": 32,
+    "soruMetni": "Hangisi trafik kaza oranını etkileyen etmenlerden biri <u>değildir</u>?",
     "soruAciklamaMetni": "",
     "resim": null,
     "video": null,
     "secenekler": {
       "tip": 1,
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "Şok"
+      "A": "Aracın yük durumu",
+      "B": "Kural ihlalleri",
+      "C": "Araç bakımları",
+      "D": "Aracın beygir gücü"
+    },
+    "dogruCevap": "D",
+    "alan": "TRAFIK"
+  },
+  {
+    "id": 33,
+    "soruMetni": "Araç muayenesi sırasında, numaralanmış arızalardan hangileri ağır kusur olarak değerlendirilir?",
+    "soruAciklamaMetni": "   I.	 Rot başlarının boşluk yapması\n  II.	 Ön cam sileceklerinin çalışmaması\n III.	 Park lambalarının yanmaması\nIV.	 Kısa hüzmeli far ayarının bozuk olması",
+    "resim": null,
+    "video": null,
+    "secenekler": {
+      "tip": 1,
+      "A": "I ve IV",
+      "B": "II ve IV",
+      "C": "I, II ve III",
+      "D": "II, III ve IV"
+    },
+    "dogruCevap": "C",
+    "alan": "MOTOR"
+  },
+  {
+    "id": 34,
+    "soruMetni": "Hangisi aracın durma mesafesini etkileyen faktörlerden biri <u>değildir</u>?",
+    "soruAciklamaMetni": "",
+    "resim": null,
+    "video": null,
+    "secenekler": {
+      "tip": 1,
+      "A": "Kaplamanın cinsi",
+      "B": "Yolun eğimi",
+      "C": "Aracın hızı",
+      "D": "Aracın beygir gücü"
+    },
+    "dogruCevap": "D",
+    "alan": "MOTOR"
+  },
+  {
+    "id": 35,
+    "soruMetni": "Hangisini yapmak çevrenin temiz kalmasına katkı sağlar?",
+    "soruAciklamaMetni": "",
+    "resim": null,
+    "video": null,
+    "secenekler": {
+      "tip": 1,
+      "A": "Gereksiz yere korna çalmak",
+      "B": "Seyahat esnasında, yiyecek atıklarını otoyol kenarlarına bırakmak",
+      "C": "Egzoz emisyon ölçümünü geciktirmek",
+      "D": "Araç bakımlarını zamanında yaptırmak"
+    },
+    "dogruCevap": "D",
+    "alan": "MOTOR"
+  },
+  {
+    "id": 36,
+    "soruMetni": "Hangisi, motor soğutma sisteminin elemanı <u>değildir</u>?",
+    "soruAciklamaMetni": "",
+    "resim": null,
+    "video": null,
+    "secenekler": {
+      "tip": 1,
+      "A": "Balata",
+      "B": "Su pompası",
+      "C": "Radyatör",
+      "D": "Termostat"
     },
     "dogruCevap": "A",
-    "alan": "ILKYARDIM"
+    "alan": "MOTOR"
+  },
+  {
+    "id": 37,
+    "soruMetni": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+    "soruAciklamaMetni": "'Geceleyin şehirlerarası kara yolunda seyrederken araçla karşılaşıldığında kısa farları kullanmak gerekir. Bu durumda, net görüş mesafesi ortalama 25 metreye düşer.'",
+    "resim": null,
+    "video": null,
+    "secenekler": {
+      "tip": 1,
+      "A": "Karşı taraf ikazda bulunmazsa uzun farla devam etmek",
+      "B": "Araç hızını, herhangi bir tehlike anında, kolayca durulabilecek hıza getirmek",
+      "C": "Yolu daha iyi görmek için art arda kısa aralıklarla selektör yapmak",
+      "D": "Yolun sağından bir tehlike gelebileceği düşünülerek iyice sola yanaşmak"
+    },
+    "dogruCevap": "B",
+    "alan": "MOTOR"
+  },
+  {
+    "id": 38,
+    "soruMetni": "Motor yağı kontrolü yapılırken yapılması gerekenlerin doğru sıralanışı hangisidir?",
+    "soruAciklamaMetni": "   I.	  Motor yağ seviye çubuğu çekilip temizlenmeli\n
+  II.	 Motor yağ çubuğu tekrar yerine daldırılıp çekilip kontrol edilmeli\n
+ III.	 Düz bir zeminde durulup motor kaputu açılmalı\n
+IV.	 Yağ miktarının max-min seviyesi arasında olduğu görülmeli",
+    "resim": null,
+    "video": null,
+    "secenekler": {
+      "tip": 1,
+      "A": "I, II, III ve IV",
+      "B": "II, I, IV ve III",
+      "C": "III, I, IV ve II",
+      "D": " III, I, II ve IV"
+    },
+    "dogruCevap": "D",
+    "alan": "MOTOR"
+  },
+  {
+    "id": 39,
+    "soruMetni": "Görseldeki ikaz ışığı hangi durumda <u>yanmaz</u>?",
+    "soruAciklamaMetni": "",
+    "resim": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/39img.png?raw=true",
+    "video": null,
+    "secenekler": {
+      "tip": 1,
+      "A": "Lastik basıncı azaldığında",
+      "B": "Lastik ısındığında",
+      "C": "Lastik patladığında",
+      "D": "Sensör arızalandığında"
+    },
+    "dogruCevap": "B",
+    "alan": "MOTOR"
+  },
+  {
+    "id": 40,
+    "soruMetni": "Hangisi, servis veya tamir atölyeleri tarafından yapılmalıdır?",
+    "soruAciklamaMetni": "",
+    "resim": null,
+    "video": null,
+    "secenekler": {
+      "tip": 1,
+      "A": "Silecek lastiklerinin kontrolü",
+      "B": "Antifiriz yoğunluk derecesi kontrolü",
+      "C": " Lastik hava basınç kontrolü",
+      "D": "Motor yağı seviyesinin kontrolü"
+    },
+    "dogruCevap": "B",
+    "alan": "MOTOR"
+  },
+  {
+    "id": 41,
+    "soruMetni": "Hangi parçanın düzgün çalışmaması, şarj ikaz lambasının yanmasına sebep olur?",
+    "soruAciklamaMetni": "",
+    "resim": null,
+    "video": null,
+    "secenekler": {
+      "tip": 1,
+      "A": "V kayışının",
+      "B": "Triger kayışının",
+      "C": "Marş motorunun",
+      "D": "Radyatörün"
+    },
+    "dogruCevap": "A",
+    "alan": "MOTOR"
+  },
+  {
+    "id": 42,
+    "soruMetni": "Hangisi, motorun hararet yapmasına sebep olan durumlardan biri <u>değildir</u>?",
+    "soruAciklamaMetni": "",
+    "resim": null,
+    "video": null,
+    "secenekler": {
+      "tip": 1,
+      "A": "Termostatın arızalanması",
+      "B": "Uygun hız ve viteste gidilmemesi",
+      "C": "Antifriz seviyesinin düşük olması",
+      "D": "Vantilatör kayışının gevşemesi"
+    },
+    "dogruCevap": "C",
+    "alan": "MOTOR"
+  },
+  {
+    "id": 43,
+    "soruMetni": "Videoya göre sürücü nasıl davranmalıdır?",
+    "soruAciklamaMetni": "",
+    "resim": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/43img.png?raw=true",
+    "video": "https://esinavdeneme.meb.gov.tr/video/122828.mp4",
+    "secenekler": {
+      "tip": 1,
+      "A": "Sabit hızla aynı şeritte yoluna devam etmeli",
+      "B": "Sol şeride geçip derhal servise gitmeli",
+      "C": "Yavaşlayıp sağ şeritten yoluna devam etmeli",
+      "D": "Trafik kurallarına uygun olarak derhal durmalı"
+    },
+    "dogruCevap": "D",
+    "alan": "TRAFIK_ADABI"
+  },
+  {
+    "id": 44,
+    "soruMetni": "Numaralanmış ifadelerden hangilerinin yapılması, yakıt tüketiminin artmasına sebep olur?",
+    "soruAciklamaMetni": "   I.	 Mümkün olduğunca az fren yapmak\n
+  II.	 Vitese göre daha düşük devirde araç kullanmak\n
+ III.	 Araç ilk çalıştırıldığında motora tam güç vermek\n
+IV.	 Vitese göre yüksek devirde araç kullanmak",
+    "resim": null,
+    "video": null,
+    "secenekler": {
+      "tip": 1,
+      "A": "I ve II",
+      "B": "I ve IV",
+      "C": "I, II ve III",
+      "D": "II, III ve IV"
+    },
+    "dogruCevap": "D",
+    "alan": "TRAFIK_ADABI"
+  },
+  {
+    "id": 45,
+    "soruMetni": "Hangisi, toplum adabına aykırı davranışlardandır?",
+    "soruAciklamaMetni": "",
+    "resim": null,
+    "video": null,
+    "secenekler": {
+      "tip": 1,
+      "A": "Trafikte aracı arızalanan birine yardımcı olmak",
+      "B": "Kaza, deprem, sel gibi felaketlerden çıkar sağlamaya çalışmak",
+      "C": "Engellilere ayrılmış alanların dışına park etmek",
+      "D": "Toplu taşıma araçlarındaki yaşlı, çocuklu veya engelli insanlara yer vermek"
+    },
+    "dogruCevap": "B",
+    "alan": "TRAFIK_ADABI"
+  },
+  {
+    "id": 46,
+    "soruMetni": "Deprem, sel gibi doğal afetlerden etkilenenlere yardım götürmeye çalışan araçlara kolaylık sağlayan sürücünün hangisine önem verdiği <u>söylenemez</u>?",
+    "soruAciklamaMetni": "",
+    "resim": null,
+    "video": null,
+    "secenekler": {
+      "tip": 1,
+      "A": "Feragata",
+      "B": "Diğerkâmlığa",
+      "C": "Empatiye",
+      "D": "Aceleciliğe"
+    },
+    "dogruCevap": "D",
+    "alan": "TRAFIK_ADABI"
+  },
+  {
+    "id": 47,
+    "soruMetni": "Görseldeki aracın sürücüsüyle ilgili hangisi <u>kesinlikle</u> söylenir?",
+    "soruAciklamaMetni": "",
+    "resim": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/47img.png?raw=true",
+    "video": null,
+    "secenekler": {
+      "tip": 1,
+      "A": "Trafik adabına uygun davrandığı",
+      "B": "Empati kurabilen biri olduğu",
+      "C": "Trafikte saygı kavramına önem verdiği",
+      "D": "Sorumluluk bilincinin zayıf olduğu"
+    },
+    "dogruCevap": "D",
+    "alan": "TRAFIK_ADABI"
+  },
+  {
+    "id": 48,
+    "soruMetni": "Trafikte yaşanan stresin, bireyler üzerindeki etkileriyle ilgili numaralanmış ifadeler doğru (D), yanlış (Y) olarak değerlendirildiğinde sıralama hangisi olur?",
+    "soruAciklamaMetni": "  I. Kaygıları artar.\n
+  II. Kalp atışları hızlanır.\n
+III. Saldırgan tutum sergilemezler.",
+    "resim": null,
+    "video": null,
+    "secenekler": {
+      "tip": 1,
+      "A": "D - D - Y",
+      "B": "D - Y - D",
+      "C": "D - D - D",
+      "D": "Y - D - D"
+    },
+    "dogruCevap": "A",
+    "alan": "TRAFIK_ADABI"
+  },
+  {
+    "id": 49,
+    "soruMetni": "Görselde karşıya geçmeye çalışan yayanın hızlı hareket etmesi için el, kol ve sözle uyarılarda bulunan sürücüyle ilgili hangisi söylenir?",
+    "soruAciklamaMetni": "",
+    "resim": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/49img.png?raw=true",
+    "video": null,
+    "secenekler": {
+      "tip": 1,
+      "A": "İletişim kabiliyetinin yüksek olduğu",
+      "B": "Empati kurabildiği",
+      "C": "Sabırlı hareket edemediği",
+      "D": "Saygı kavramına önem verdiği"
+    },
+    "dogruCevap": "C",
+    "alan": "TRAFIK_ADABI"
+  },
+  {
+    "id": 50,
+    "soruMetni": "Görseldeki gibi emisyon değeri yüksek egzoz dumanı çıkaran araçların kullanılması, hak ihlallerinden hangisinin kapsamına <u>girmez</u>?",
+    "soruAciklamaMetni": "",
+    "resim": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/50img.png?raw=true",
+    "video": null,
+    "secenekler": {
+      "tip": 1,
+      "A": "Doğa ve Çevreye Karşı Yapılan Hak İhlalleri",
+      "B": "Kamu Hak İhlalleri",
+      "C": "Diğer Canlılara Karşı Yapılan Hak İhlalleri",
+      "D": "Bireylere Karşı Yapılan Hak İhlalleri"
+    },
+    "dogruCevap": "B",
+    "alan": "TRAFIK_ADABI"
   }
 ]
