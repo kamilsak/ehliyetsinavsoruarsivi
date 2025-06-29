@@ -594,7 +594,7 @@
   {
     "id": 38,
     "soruMetni": "Motor yağı kontrolü yapılırken yapılması gerekenlerin doğru sıralanışı hangisidir?",
-    "soruAciklamaMetni": "   I.	  Motor yağ seviye çubuğu çekilip temizlenmeli\n  II.	 Motor yağ çubuğu tekrar yerine daldırılıp çekilip kontrol edilmeli\n III.	 Düz bir zeminde durulup motor kaputu açılmalı\nIV.	 Yağ miktarının max-min seviyesi arasında olduğu görülmeli",
+    "soruAciklamaMetni": "   I.	Motor yağ seviye çubuğu çekilip temizlenmeli\n  II. Motor yağ çubuğu tekrar yerine daldırılıp çekilip kontrol edilmeli\n III. Düz bir zeminde durulup motor kaputu açılmalı\nIV. Yağ miktarının max-min seviyesi arasında olduğu görülmeli",
     "resim": null,
     "video": null,
     "secenekler": {
@@ -690,7 +690,7 @@
   {
     "id": 44,
     "soruMetni": "Numaralanmış ifadelerden hangilerinin yapılması, yakıt tüketiminin artmasına sebep olur?",
-    "soruAciklamaMetni": "   I.	 Mümkün olduğunca az fren yapmak\n  II.	 Vitese göre daha düşük devirde araç kullanmak\n III.	 Araç ilk çalıştırıldığında motora tam güç vermek\nIV.	 Vitese göre yüksek devirde araç kullanmak",
+    "soruAciklamaMetni": "   I.	Mümkün olduğunca az fren yapmak\n  II. Vitese göre daha düşük devirde araç kullanmak\n III.	Araç ilk çalıştırıldığında motora tam güç vermek\nIV.	Vitese göre yüksek devirde araç kullanmak",
     "resim": null,
     "video": null,
     "secenekler": {
