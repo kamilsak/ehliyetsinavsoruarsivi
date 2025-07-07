@@ -269,7 +269,7 @@
       "D": "https://github.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/17d.png?raw=true"
     },
     "dogruCevap": "C",
-    "alan": "ILKYARDIM"
+    "alan": "TRAFIK"
   },
   {
     "id": 18,
@@ -525,7 +525,7 @@
       "D": "II, III ve IV"
     },
     "dogruCevap": "C",
-    "alan": "MOTOR"
+    "alan": "TRAFIK"
   },
   {
     "id": 34,
@@ -541,7 +541,7 @@
       "D": "Aracın beygir gücü"
     },
     "dogruCevap": "D",
-    "alan": "MOTOR"
+    "alan": "TRAFIK"
   },
   {
     "id": 35,
@@ -557,7 +557,7 @@
       "D": "Araç bakımlarını zamanında yaptırmak"
     },
     "dogruCevap": "D",
-    "alan": "MOTOR"
+    "alan": "TRAFIK"
   },
   {
     "id": 36,
@@ -685,7 +685,7 @@
       "D": "Trafik kurallarına uygun olarak derhal durmalı"
     },
     "dogruCevap": "D",
-    "alan": "TRAFIK_ADABI"
+    "alan": "MOTOR"
   },
   {
     "id": 44,
@@ -701,7 +701,7 @@
       "D": "II, III ve IV"
     },
     "dogruCevap": "D",
-    "alan": "TRAFIK_ADABI"
+    "alan": "MOTOR"
   },
   {
     "id": 45,
