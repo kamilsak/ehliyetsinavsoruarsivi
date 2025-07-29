@@ -23,10 +23,10 @@
     "video": null,
     "secenekler": {
       "tip": 2,
-      "A": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/a2.jpg?raw=true",
-      "B": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/b2.jpg?raw=true",
-      "C": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/c2.jpg?raw=true",
-      "D": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/d2.jpg?raw=true"
+      "A": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/a2.jpg",
+      "B": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/b2.jpg",
+      "C": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/c2.jpg",
+      "D": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/d2.jpg"
     },
     "dogruCevap": "B",
     "alan": "ILKYARDIM"
@@ -35,7 +35,7 @@
     "id": 3,
     "soruMetni": "Buna göre ilk yardımcı, numaralanmış kazazedelerden hangilerine “ağızdan buruna” suni solunum yapmalıdır?",
     "soruAciklamaMetni": "Olay yerindeki ilk yardımcının, bilinçleri kapalı ve solunumu olmayan dört farklı kazazedeye ilişkin tespitleri tabloda verilmiştir.",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/s3.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/s3.png",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -51,7 +51,7 @@
     "id": 4,
     "soruMetni": "Buna göre, sıralamanın doğru olması için numaralanmış aşamalardan hangileri yer değiştirmelidir?",
     "soruAciklamaMetni": "Görselde bebeklerde ilk yardım olarak uygulanan Heimlich manevrasının uygulama aşamaları karışık olarak verilmiştir.",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/s4.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/s4.png",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -83,7 +83,7 @@
     "id": 6,
     "soruMetni": "Görseldeki yaralıya ilk yardımcının, hangi uygulamayı yapması uygun <u>değildir</u>?",
     "soruAciklamaMetni": null,
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/s6.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/s6.png",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -99,7 +99,7 @@
     "id": 7,
     "soruMetni": "Tabloya göre ilk yardımcının, numaralanmış kazazedelerin kırık durumlarına göre uyguladığı tespit işlemleri doğru (D), yanlış (Y) olarak değerlendirildiğinde sıralama hangisi olur?",
     "soruAciklamaMetni": null,
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/s7.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/s7.png",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -167,10 +167,10 @@
     "video": null,
     "secenekler": {
       "tip": 2,
-      "A": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/11a.png?raw=true",
-      "B": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/11b.png?raw=true",
-      "C": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/11c.png?raw=true",
-      "D": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/11d.png?raw=true"
+      "A": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/11a.png",
+      "B": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/11b.png",
+      "C": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/11c.png",
+      "D": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/11d.png"
     },
     "dogruCevap": "A",
     "alan": "ILKYARDIM"
@@ -183,10 +183,10 @@
     "video": null,
     "secenekler": {
       "tip": 2,
-      "A": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/12a.png?raw=true",
-      "B": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/12b.png?raw=true",
-      "C": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/12c.png?raw=true",
-      "D": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/12d.png?raw=true"
+      "A": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/12a.png",
+      "B": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/12b.png",
+      "C": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/12c.png",
+      "D": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/12d.png"
     },
     "dogruCevap": "D",
     "alan": "ILKYARDIM"
@@ -211,7 +211,7 @@
     "id": 14,
     "soruMetni": "Videoya göre hangisinin yapılması doğru olur?",
     "soruAciklamaMetni": "",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/14s.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/14s.png",
     "video": "https://esinavdeneme.meb.gov.tr/video/124454.mp4",
     "secenekler": {
       "tip": 1,
@@ -227,7 +227,7 @@
     "id": 15,
     "soruMetni": "Videoya göre, kırmızı otomobil sürücüsü numaralanmış hatalardan hangilerini yapmaktadır?",
     "soruAciklamaMetni": "  I. Kırmızı ışıkta geçmektedir.\n II. Sağdan gelen yeşil araca ilk geçiş hakkını vermemektedir.\nIII. Girişi olmayan yol bölümüne girmektedir.",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/15img.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/15img.png",
     "video": "https://esinavdeneme.meb.gov.tr/video/123962.mp4",
     "secenekler": {
       "tip": 1,
@@ -243,7 +243,7 @@
     "id": 16,
     "soruMetni": "Görseldeki yol çizgileri ve yer işaretlemeleri, numaralanmış ifadelerden hangilerini belirtir?",
     "soruAciklamaMetni": "   I.	Yolun, iki şeritli ve iki yönlü olduğunu\n  II. 1 numaralı aracın gerektiğinde geçme yapabileceğini\n III.	2 numaralı arcın gerektiğinde geçme yapabileceğini",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/16img.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/16img.png",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -263,10 +263,10 @@
     "video": null,
     "secenekler": {
       "tip": 2,
-      "A": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/17a.png?raw=true",
-      "B": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/17b.png?raw=true",
-      "C": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/17c.png?raw=true",
-      "D": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/17d.png?raw=true"
+      "A": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/17a.png",
+      "B": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/17b.png",
+      "C": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/17c.png",
+      "D": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/17d.png"
     },
     "dogruCevap": "C",
     "alan": "TRAFIK"
@@ -275,7 +275,7 @@
     "id": 18,
     "soruMetni": "Videoya göre, kırmızı otomobil sürücüsü nasıl davranmalıdır?",
     "soruAciklamaMetni": "",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/18img.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/18img.png",
     "video": "https://esinavdeneme.meb.gov.tr/video/123967.mp4",
     "secenekler": {
       "tip": 1,
@@ -291,7 +291,7 @@
     "id": 19,
     "soruMetni": "Görsele göre, hangisinin yapılması doğru olur?",
     "soruAciklamaMetni": "",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/19img.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/19img.png",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -307,7 +307,7 @@
     "id": 20,
     "soruMetni": "Görsele göre, 1 numaralı araç sürücüsünün numaralanmış davranışlardan hangilerini yapması trafik kazası riskini azaltır?",
     "soruAciklamaMetni": "  I.	 Takip mesafesini artırması\n II.	 Hızını azaltması\nIII.	 Bulunduğu şeridin soluna yanaşması",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/20img.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/20img.png",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -323,7 +323,7 @@
     "id": 21,
     "soruMetni": "Görseldeki yolda, numaralanmış araçlardan hangileri en fazla 70 km/saat hızla yollarına devam edebilir?",
     "soruAciklamaMetni": "",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/21img.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/21img.png",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -339,7 +339,7 @@
     "id": 22,
     "soruMetni": "Görsele göre, numaralı araçlardan hangileri hatalı geçme yapmaktadır?",
     "soruAciklamaMetni": "",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/22img.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/22img.png",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -355,7 +355,7 @@
     "id": 23,
     "soruMetni": "Görseldeki kavşakta ilk geçiş hakkı sıralaması nasıl olmalıdır?",
     "soruAciklamaMetni": "",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/23img.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/23img.png",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -371,7 +371,7 @@
     "id": 24,
     "soruMetni": "Görsele göre, Adana istikametine gitmek isteyen 1 numaralı araç sürücüsü hakkında hangisi <u>söylenemez</u>?",
     "soruAciklamaMetni": "",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/24img.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/24img.png",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -387,7 +387,7 @@
     "id": 25,
     "soruMetni": "Görseldeki gibi bir karşılaşmada, 2 numaralı araç sürücüsü ne yapmalıdır?",
     "soruAciklamaMetni": "",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/25img.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/25img.png",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -419,7 +419,7 @@
     "id": 27,
     "soruMetni": "Görseldeki gibi bir karayolu bölümünde seyreden sürücülerin, numaralanmış davranışlardan hangilerini yapmaları tehlikeli durumların oluşmasına neden olur?",
     "soruAciklamaMetni": "   I.	 Hızlarını artırmaları\n  II.	 Virajı dar bir kavisle almaları\n III.	 Öndeki aracı geçmeleri",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/27img.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/27img.png",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -467,7 +467,7 @@
     "id": 30,
     "soruMetni": "Görseldeki otoyol bilgi levhası hangisini bildirir?",
     "soruAciklamaMetni": "",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/30img.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/30img.png",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -483,7 +483,7 @@
     "id": 31,
     "soruMetni": "Videodaki tehlikeli durum, sürücülerin hangi kuralı ihlal etmeleri sonucunda oluşmuştur?",
     "soruAciklamaMetni": "",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/31img.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/31img.png",
     "video": "https://esinavdeneme.meb.gov.tr/video/123256.mp4",
     "secenekler": {
       "tip": 1,
@@ -611,7 +611,7 @@
     "id": 39,
     "soruMetni": "Görseldeki ikaz ışığı hangi durumda <u>yanmaz</u>?",
     "soruAciklamaMetni": "",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/39img.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/39img.png",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -675,7 +675,7 @@
     "id": 43,
     "soruMetni": "Videoya göre sürücü nasıl davranmalıdır?",
     "soruAciklamaMetni": "",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/43img.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/43img.png",
     "video": "https://esinavdeneme.meb.gov.tr/video/122828.mp4",
     "secenekler": {
       "tip": 1,
@@ -739,7 +739,7 @@
     "id": 47,
     "soruMetni": "Görseldeki aracın sürücüsüyle ilgili hangisi <u>kesinlikle</u> söylenir?",
     "soruAciklamaMetni": "",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/47img.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/47img.png",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -771,7 +771,7 @@
     "id": 49,
     "soruMetni": "Görselde karşıya geçmeye çalışan yayanın hızlı hareket etmesi için el, kol ve sözle uyarılarda bulunan sürücüyle ilgili hangisi söylenir?",
     "soruAciklamaMetni": "",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/49img.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/49img.png",
     "video": null,
     "secenekler": {
       "tip": 1,
@@ -787,7 +787,7 @@
     "id": 50,
     "soruMetni": "Görseldeki gibi emisyon değeri yüksek egzoz dumanı çıkaran araçların kullanılması, hak ihlallerinden hangisinin kapsamına <u>girmez</u>?",
     "soruAciklamaMetni": "",
-    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/blob/main/50img.png?raw=true",
+    "resim": "https://raw.githubusercontent.com/kamilsak/ehliyetsinavsoruarsivi/refs/heads/main/50img.png",
     "video": null,
     "secenekler": {
       "tip": 1,
